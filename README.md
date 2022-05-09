@@ -1,5 +1,3 @@
-# My-projects
-
  <h2>🖥 Projects</h2>
  <a href="https://github.com/EmiliaPrzybylek/BillsCalculator">BillsCalculator</a>
  <p> HTML5, CSS3, JavaScript</p>
